@@ -25,7 +25,6 @@ cd server
 go mod download
 go run main.go
 ```
-![alt text](image-1.png)
 
 By default the server listens on :8080 port and creates files.db
 
