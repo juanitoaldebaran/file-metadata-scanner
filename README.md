@@ -1,6 +1,6 @@
 # File Metadata Scanner
 
-## Juanito Aldebaran Siahaan - Languages : Go 
+## Juanito Aldebaran Siahaan - Programming Language : Go 
 
 ## Project Description
  Two components system that scans a directory files, collects metadata and upload it to a persistent server.
